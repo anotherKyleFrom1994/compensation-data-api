@@ -10,3 +10,4 @@
 - More strictly null check and error handling
 - Consider containerizing the API
 - Setup a Git precommit hook and a formatter
+- Create unit test cases
