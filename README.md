@@ -27,4 +27,12 @@ The api supports operators for every queries. There are multiple operators:
 
 Send a GET request with the following format to query by criteria:
 
-http://localhost:8000/compensation_data?salary[le]=1000000&work_exp[gte]=2
+http://localhost:8000/compensation_data?salary[le]=1000000&work_exp[gte]=2&sort=salary&sort=work_exp
+
+# Screenshots
+
+![comp_data](./asset/comp_data.png)
+
+![comp_data2](./asset/comp_data2.png)
+
+![comp_data3](./asset/comp_data3.png)
